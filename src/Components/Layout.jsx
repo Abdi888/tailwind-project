@@ -137,5 +137,5 @@ const Layout = () => {
     </div>
   );
 };
-<script src="index.js"></script>;
+
 export default Layout;
