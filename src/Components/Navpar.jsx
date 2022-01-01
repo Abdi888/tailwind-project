@@ -1,6 +1,6 @@
 const Navpar = ()=>{
      return(
-          <div className="col-span-1 md:flex md:justify-end ">
+          <div className=" md:flex md:justify-end ">
            <nav className="text-right">
                 <div className="flex justify-between items-center">
                      <h1 className="font-bold uppercase p-4 border-b border red-100">
